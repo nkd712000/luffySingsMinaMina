@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+
+.sing-baka{
+    color:white;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    width:50%;
+    margin-left: 25%;
+
+}
+
+.luffy-singing{
+    border: 5px dashed white;
+    width: 100%;
+}
